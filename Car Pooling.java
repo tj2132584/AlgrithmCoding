@@ -1,3 +1,5 @@
+状态模拟
+
 class Solution {
     public boolean carPooling(int[][] trips, int capacity) {
         int n = trips.length;
